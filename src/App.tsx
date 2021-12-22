@@ -20,7 +20,6 @@ export function App() {
     
       <SideBar
         selectedGenreId={selectedGenreId}
-        
         handleClickButton={handleClickButton}
       />
     
